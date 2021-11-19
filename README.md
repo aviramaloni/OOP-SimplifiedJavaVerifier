@@ -1,8 +1,7 @@
 # OOP-SimplifiedJavaVerifier
 
 
-[![Build Status](http://localhost:8080/buildStatus/icon?job=my-oop5)](http://localhost:8080/job/my-oop5/)
-
+![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fwso2.org%2Fjenkins%2Fview%2FAll%2520Builds%2Fjob%2Farchetypes)
 
 This program was designed and created by Aviram Aloni and Orr Matzkin, as part of 
 The Hebrew University of Jerusalem's *'Introduction to Object-Oriented Programming'* course.
