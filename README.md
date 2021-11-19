@@ -6,7 +6,7 @@
 This program was designed and created by Aviram Aloni and Orr Matzkin, as part of 
 The Hebrew University of Jerusalem's *'Introduction to Object-Oriented Programming'* course.
 
-> s-Java is a simplified version of Java. All its features will be described below.
+> s-Java is a simplified version of Java. All its features are described below.
 
 ## Table of Contents
 - About
