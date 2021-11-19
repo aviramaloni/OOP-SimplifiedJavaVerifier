@@ -1,6 +1,8 @@
 # OOP-SimplifiedJavaVerifier
 
+
 [![Build Status](http://localhost:8080/buildStatus/icon?job=my-oop5)](http://localhost:8080/job/my-oop5/)
+
 
 This program was designed and created by Aviram Aloni and Orr Matzkin, as part of 
 The Hebrew University of Jerusalem's *'Introduction to Object-Oriented Programming'* course.
