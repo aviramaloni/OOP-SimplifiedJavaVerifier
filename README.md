@@ -1,4 +1,5 @@
 # OOP-SimplifiedJavaVerifier
+
 This program was designed and created by Aviram Aloni and Orr Matzkin, as part of 
 The Hebrew University of Jerusalem's *'Introduction to Object-Oriented Programming'* course.
 
@@ -214,7 +215,6 @@ value, in accordance with the method’s declaration. The format is:
 `return;`
 
 ### if and while Blocks
-
 if and while blocks may only appear in methods, and are defined in the following way:
 ```
 if (condition) {
@@ -235,6 +235,7 @@ Also, multiple conditions separated by AND/OR may appear (e.g., `if ( a || b || 
 
 ## How to use
 ### Installation
+
 1. Clone this repository into a desired folder on your computer
 ```
 git clone https://github.com/aviramaloni/OOP-SimplifiedJavaVerifier.git
