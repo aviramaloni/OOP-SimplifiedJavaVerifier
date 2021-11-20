@@ -42,6 +42,9 @@ s-Java is a programing language, which only supports a very limited set of Java 
 - Working with the Exceptions mechanism.
 
 ### Requirements
+
+![PowerShell Gallery](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
+
 - openjdk-16 version 16.0.1+
 
 ## s-Java specifications
